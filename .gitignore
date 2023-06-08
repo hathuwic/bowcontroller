@@ -1,1 +1,24 @@
-.Ableton
+# Folders
+.gitignore
+.Ableton/
+.Paper/
+.Video/
+.ipynb_checkpoints/
+.vs/
+.MuseScore/
+NatNetSDK/
+__pycache__/
+
+# Filetypes
+*.docx
+*.ipynb
+*.pyproj
+*.sln
+*.pdf
+*.zip
+
+# Individual files
+PythonSample.py
+main.maxpat
+
+
